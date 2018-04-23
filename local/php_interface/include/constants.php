@@ -1,0 +1,36 @@
+<?
+const IB_NEWS = 1;
+const IB_SLIDER = 2;
+const IB_NEWS_COMMENTS = 3;
+const IB_BRANDS = 4;
+const IB_OFFERS = 5;
+const IB_CATALOG = 6;
+const IB_PROJECTS = 7;
+const IB_CABINET_VARIANTS = 8;
+const IB_COLLECTIONS = 9;
+const IB_EMPLOYES = 11;
+const IB_DEALERS = 10;
+const IB_LEGAL = 21;
+const IB_COLORS = 13;
+const IB_CATEGORIES = 14;
+const IB_DESCRIPTIONS_BLOCKS = 22;
+const IB_DESCRIPTIONS = 23;
+const IB_MATERIALS = 24;
+const IB_MATERIALS_BLOCKS = 26;
+
+const IB_CONFIG_BASE = 17;
+const IB_CONFIG_PLASTIK = 16;
+const IB_CONFIG_ARMREST = 20;
+const IB_CONFIG_UPHOLSTERY = 19;
+const IB_CONFIG_MECHANISM = 18;
+const IB_CONFIG_UPHOLSTERY_COLOR = 15;
+const IB_CONFIG_MESH = 25;
+
+const RECAPTCHA_SECRET = "6LdRlCUUAAAAAEZLAzxDH4dCCj17V4JM03pl0yIb";
+const RECAPTCHA_KEY = "6LdRlCUUAAAAAHMy3J4CzmrLMbjI-Ob3f7NRzS8t";
+
+const LOCK_IMAGE = "/local/images/nophoto.jpg";
+
+const BX_DEALER_ADMIN = 8;
+const BX_DEALER_USER = 7;
+?>

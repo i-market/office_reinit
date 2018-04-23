@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="5.844" viewBox="0 0 13 5.844">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6e6e6e;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="svernut.svg" class="cls-1" d="M570,687l6-4,6,4" transform="translate(-569.5 -682.5)"/>
+</svg>
